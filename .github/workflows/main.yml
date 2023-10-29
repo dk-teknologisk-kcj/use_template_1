@@ -21,4 +21,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: dk-teknologisk-kcj/vscode_ros2_ws_template
           upstream_branch: humble # defaults to main
-          pr_labels: <label1>,<label2>[,...] # optional, no default
+          #pr_labels: <label1>,<label2>[,...] # optional, no default
