@@ -1,3 +1,4 @@
+Line 1 local commit to use_template_1
 # Test update to template 
 Another commit to the main template
 # VSCode ROS2 Workspace Template
